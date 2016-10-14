@@ -1,0 +1,9 @@
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\bin\Debug\TextCat.exe
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\bin\Debug\TextCat.pdb
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.Properties.Resources.resources
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.exe
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.pdb
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.csproj.GenerateResource.Cache
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.frmProgress.resources
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.MainForm.resources
+D:\Учеба\Text categorization\Кандидатская\Projects\TextCatGUI\TextCat\TextCat\obj\x86\Debug\TextCat.csprojResolveAssemblyReference.cache
